@@ -36,6 +36,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ruby"
+    },
+    {
+      "name": "MakeRubyBlock",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "make_ruby_block"
+    },
+    {
+      "name": "MakeRubyOutOfRubyBlock",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "make_ruby_out_of_ruby_block"
     }
   ],
   "variable_elements": [],

@@ -1,0 +1,37 @@
+{
+  "group": "extras_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extras_mod:ruby"
+    },
+    {
+      "item": "extras_mod:ruby"
+    },
+    {
+      "item": "extras_mod:ruby"
+    },
+    {
+      "item": "extras_mod:ruby"
+    },
+    {
+      "item": "extras_mod:ruby"
+    },
+    {
+      "item": "extras_mod:ruby"
+    },
+    {
+      "item": "extras_mod:ruby"
+    },
+    {
+      "item": "extras_mod:ruby"
+    },
+    {
+      "item": "extras_mod:ruby"
+    }
+  ],
+  "result": {
+    "item": "extras_mod:ruby_block",
+    "count": 1
+  }
+}
