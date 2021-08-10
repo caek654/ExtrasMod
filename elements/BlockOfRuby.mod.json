@@ -32,9 +32,9 @@
         "subtract": false
       }
     ],
-    "name": "Ruby Block",
+    "name": "Block Of Ruby",
     "specialInfo": [],
-    "hardness": 1.0,
+    "hardness": 9.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
@@ -72,7 +72,7 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "GROUND"
+      "value": "STONE"
     },
     "luminance": 0,
     "unbreakable": false,

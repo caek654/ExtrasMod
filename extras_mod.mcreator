@@ -2,15 +2,6 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "RubyBlock",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "ruby_block"
-    },
-    {
       "name": "RubyOre",
       "type": "block",
       "sortid": 2,
@@ -54,15 +45,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "craft_ruby_out_of_ruby_block"
+    },
+    {
+      "name": "BlockOfRuby",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_ruby"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.extras_mod.block_of_ruby": "Block Of Ruby",
       "block.extras_mod.ruby_ore": "Ruby Ore",
       "item.extras_mod.ruby": "Ruby",
-      "block.extras_mod.ruby_block": "Ruby Block",
       "block.extras_mod.block_of_netherite": "Block Of Netherite"
     }
   },

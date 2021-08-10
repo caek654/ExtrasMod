@@ -1,5 +1,5 @@
 {
-  "parent": "extras_mod:block/ruby_block",
+  "parent": "extras_mod:block/block_of_ruby",
   "display": {
     "thirdperson": {
       "rotation": [

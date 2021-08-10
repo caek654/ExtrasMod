@@ -19,11 +19,11 @@ import java.util.Collections;
 import de.caeksixfivefour.extrasmod.ExtrasModModElements;
 
 @ExtrasModModElements.ModElement.Tag
-public class RubyBlockBlock extends ExtrasModModElements.ModElement {
-	@ObjectHolder("extras_mod:ruby_block")
+public class BlockOfRubyBlock extends ExtrasModModElements.ModElement {
+	@ObjectHolder("extras_mod:block_of_ruby")
 	public static final Block block = null;
-	public RubyBlockBlock(ExtrasModModElements instance) {
-		super(instance, 1);
+	public BlockOfRubyBlock(ExtrasModModElements instance) {
+		super(instance, 7);
 	}
 
 	@Override
@@ -34,8 +34,8 @@ public class RubyBlockBlock extends ExtrasModModElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
-			setRegistryName("ruby_block");
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(9f, 10f).setLightLevel(s -> 0));
+			setRegistryName("block_of_ruby");
 		}
 
 		@Override
