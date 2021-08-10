@@ -27,6 +27,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "block_of_netherite"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby"
     }
   ],
   "variable_elements": [],
@@ -34,6 +43,7 @@
   "language_map": {
     "en_us": {
       "block.extras_mod.ruby_ore": "Ruby Ore",
+      "item.extras_mod.ruby": "Ruby",
       "block.extras_mod.ruby_block": "Ruby Block",
       "block.extras_mod.block_of_netherite": "Block Of Netherite"
     }
