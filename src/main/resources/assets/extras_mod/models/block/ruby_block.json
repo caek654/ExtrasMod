@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extras_mod:blocks/emerald_block",
+    "up": "extras_mod:blocks/emerald_block",
+    "north": "extras_mod:blocks/emerald_block",
+    "east": "extras_mod:blocks/emerald_block",
+    "south": "extras_mod:blocks/emerald_block",
+    "west": "extras_mod:blocks/emerald_block",
+    "particle": "extras_mod:blocks/emerald_block"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.extras_mod.ruby_ore": "Ruby Ore",
+      "block.extras_mod.ruby_block": "Ruby Block"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "extras_mod",
+    "modName": "Extras Mod",
+    "version": "1.0.0",
+    "author": "marce, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "de.caeksixfivefour.extrasmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

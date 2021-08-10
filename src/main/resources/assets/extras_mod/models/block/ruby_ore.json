@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extras_mod:blocks/emerald_ore",
+    "up": "extras_mod:blocks/emerald_ore",
+    "north": "extras_mod:blocks/emerald_ore",
+    "east": "extras_mod:blocks/emerald_ore",
+    "south": "extras_mod:blocks/emerald_ore",
+    "west": "extras_mod:blocks/emerald_ore",
+    "particle": "extras_mod:blocks/emerald_ore"
+  }
+}
