@@ -10,19 +10,19 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
         "value": "CUSTOM:RubyBlock"
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
       },
       {
         "value": ""
@@ -40,7 +40,7 @@
     "recipeReturnStack": {
       "value": "CUSTOM:Ruby"
     },
-    "name": "make_ruby_out_of_ruby_block",
+    "name": "craft_ruby_out_of_ruby_block",
     "namespace": "mod"
   }
 }

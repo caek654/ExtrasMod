@@ -47,13 +47,13 @@
       "registry_name": "make_ruby_block"
     },
     {
-      "name": "MakeRubyOutOfRubyBlock",
+      "name": "CraftRubyOutOfRubyBlock",
       "type": "recipe",
       "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "make_ruby_out_of_ruby_block"
+      "registry_name": "craft_ruby_out_of_ruby_block"
     }
   ],
   "variable_elements": [],
